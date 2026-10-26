@@ -54,14 +54,9 @@ The system is connected to the Blynk IoT platform, allowing users to monitor con
 
 The LCD provides local monitoring, while Blynk offers remote access to sensor data, helping users observe storage conditions conveniently.
 
-##  Project Gallery
+##  Block Diagram
 
-<!-- Example:
-![System Prototype](images/system-prototype.jpg)
-![LCD Display](images/lcd-display.jpg)
-![Blynk Dashboard](images/blynk-dashboard.jpg)
-![Circuit Connections](images/circuit-connections.jpg)
--->
+<img src="images/Block-diagram.png" alt="Block Diagram" width="350">
 
 
 ##  Future Improvements
