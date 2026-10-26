@@ -56,7 +56,7 @@ The LCD provides local monitoring, while Blynk offers remote access to sensor da
 
 ##  Block Diagram
 
-<img src="images/Block-diagram.png" alt="Block Diagram" width="350">
+<img src="images/Block-Diagram.png" alt="Block Diagram" width="350">
 
 
 ##  Future Improvements
