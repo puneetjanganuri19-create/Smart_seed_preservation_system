@@ -79,8 +79,6 @@ The LCD provides local monitoring, while Blynk offers remote access to sensor da
 ##  Author
 
 **Puneet Janganuri**  
-Electronics and Communication Engineering  
-S.G. Balekundri Institute of Technology, Belagavi
 
 ---
 
