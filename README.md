@@ -62,6 +62,15 @@ The LCD provides local monitoring, while Blynk offers remote access to sensor da
 
 <img src="images/pcb-layout.png" alt="PCB Layout" width="350">
 
+## Source Code
+The Arduino source code for Smart Seed Preservation System is available below.
+
+- [View Arduino Code](Arduino-Code.ino)
+
+The ESP8266 source code for Smart Seed Preservation System is available below.
+
+- [View ESP8266 Code](ESP8266-Code.ino)
+
 ##  Results
 
 <img src="images/Project-Photo2.png" alt="Project Prototype" width="350">   <img src="images/Project-Photo.png" alt="Project Prototype" width="350">
