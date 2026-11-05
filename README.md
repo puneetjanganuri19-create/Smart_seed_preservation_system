@@ -82,8 +82,6 @@ The ESP8266 source code for Smart Seed Preservation System is available below.
 - Add notifications when temperature or humidity exceeds configured limits.
 - Implement fire alerts through the IoT dashboard.
 - Add historical sensor data logging and visualization.
-- Improve automated ventilation and environmental control.
-- Enhance remote monitoring and system reliability.
 
 ##  Learning Outcomes
 
