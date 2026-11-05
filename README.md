@@ -62,6 +62,13 @@ The LCD provides local monitoring, while Blynk offers remote access to sensor da
 
 <img src="images/pcb-layout.png" alt="PCB Layout" width="350">
 
+##  Results
+
+<img src="images/Project-Photo2.png" alt="Project Prototype" width="350">
+
+<img src="images/Project-Photo.png" alt="Project Prototype" width="350">
+
+<img src="images/PCB-Pic.png" alt="PCB" width="350">
 
 ##  Future Improvements
 
